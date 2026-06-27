@@ -21,7 +21,7 @@ user		= mysql
 
 port		= 3306
 
-datadir	= /var/data/mysql
+datadir	= /var/lib/mysql
 
 
 # If MySQL is running as a replication slave, this should be
